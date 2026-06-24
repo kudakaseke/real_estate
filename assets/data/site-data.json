@@ -1,0 +1,57 @@
+{
+  "projects": [
+    {
+      "title": "Skyline Residences",
+      "category": "residential",
+      "label": "Residential",
+      "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "title": "Axis Business Hub",
+      "category": "commercial",
+      "label": "Commercial",
+      "image": "https://images.unsplash.com/photo-1486718448742-163732cd1544?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "title": "Harbor Point",
+      "category": "mixed",
+      "label": "Mixed Use",
+      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "title": "Metro Square",
+      "category": "commercial",
+      "label": "Commercial",
+      "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "title": "Greencrest Villas",
+      "category": "residential",
+      "label": "Residential",
+      "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "title": "Central One",
+      "category": "mixed",
+      "label": "Mixed Use",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1000&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "PrimeAxis delivered a complex mixed-use project on time and above expectation.",
+      "name": "R. Mathews",
+      "role": "Institutional Investor"
+    },
+    {
+      "quote": "Clear communication, excellent planning, and outstanding execution quality throughout.",
+      "name": "N. Moyo",
+      "role": "Private Developer"
+    },
+    {
+      "quote": "Their team understood our goals and converted them into a high-performing asset.",
+      "name": "A. Daniels",
+      "role": "Commercial Partner"
+    }
+  ]
+}
