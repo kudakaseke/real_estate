@@ -39,7 +39,7 @@ $sent = @mail($to, $email_subject, $email_body, $headers);
   <section class="section-space">
     <div class="container text-center">
       <h1 class="section-title"><?php echo $sent ? 'Message Sent' : 'Message Received'; ?></h1>
-      <p><?php echo $sent ? 'Thank you. We will get back to you shortly.' : 'Thank you. Your message has been recorded. Mail delivery is not configured on this server yet.'; ?></p>
+      <p><?php echo $sent ? 'Thank you. We will get back to you.' : 'Thank you. Your message has been recorded. Mail delivery is not configured on this server yet.'; ?></p>
       <a class="btn btn-brand" href="index.html">Back to Home</a>
     </div>
   </section>
